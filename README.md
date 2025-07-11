@@ -51,5 +51,6 @@ Sou um entusiasta do aprendizado, com foco em **Inteligência Artificial** e **B
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barbosa-706027210//)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.fe.p.barbosa@gmail.com)
+[![Goodreads](https://img.shields.io/badge/Goodreads-553B08?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/158108548-guilherme)
 
 ---
