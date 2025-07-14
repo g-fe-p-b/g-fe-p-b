@@ -30,11 +30,11 @@ Sou um entusiasta do aprendizado, com foco em **Inteligência Artificial** e **B
 
 ### Mais
 
+* **Inglês Avançado**
 * **Metodologias Ativas:** Scrum e Kanban
 * **Design Thinking**
-* **Cursos de IA:**
-    * IA para todos
-    * IA Inteligência Artificial + 12 Ferramentas
+* **IA**
+
 
 ---
 
