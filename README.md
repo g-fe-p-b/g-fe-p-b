@@ -43,7 +43,7 @@ Sou um entusiasta do aprendizado, com foco em **Inteligência Artificial** e **B
 ![Status: Em Progresso](https://img.shields.io/badge/Status-Em%20Progresso-blue?style=for-the-badge)
 
 [![Meu GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-fe-p-b&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=g-fe-p-b&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=g-fe-p-b&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stat)
 
 ---
 
